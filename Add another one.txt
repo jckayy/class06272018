@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 made some more in this 2ond time
+=======
+made some more in this 
+
+online edits. 
+>>>>>>> 4d25d1d70409e4f24c3fc3ef329bd13b62f0622d
